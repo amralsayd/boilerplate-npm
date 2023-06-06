@@ -2,7 +2,8 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Amr Elsayed",
   "description": "A project that does something awesome",
-  "keywords": [ "descriptive", "related", "words","freecodecamp" ],
+  "keywords": ["descriptive", "related", "words", "freecodecamp"],
+  "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
