@@ -11,12 +11,17 @@
   "version": "1.2.0",
   "license": "MIT",
   "dependencies": {
+    "mongoose": "^5.11.15",
+    "dotenv": "^8.2.0",
+    "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "fcc-express-bground": "^0.0.5"
+    "fcc-express-bground": "^0.0.5",
+    "mongodb": "^3.0.0",
+    "cors": "^2.8.0"
   },
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
